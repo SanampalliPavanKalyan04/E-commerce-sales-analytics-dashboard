@@ -1,0 +1,251 @@
+CustomerID,CustomerName,Region,State,Segment,SignupDate
+CUST1000,Ananya Rao,North,Uttarakhand,Corporate,2023-08-04T00:00:00.000000
+CUST1001,Ananya Gupta,West,Maharashtra,Small Business,2022-10-13T00:00:00.000000
+CUST1002,Anjali Reddy,West,Maharashtra,Small Business,2022-09-09T00:00:00.000000
+CUST1003,Rahul Verma,East,Jharkhand,Consumer,2022-12-20T00:00:00.000000
+CUST1004,Ananya Mehta,East,Bihar,Consumer,2023-10-17T00:00:00.000000
+CUST1005,Tanvi Reddy,Central,Chhattisgarh,Corporate,2022-09-23T00:00:00.000000
+CUST1006,Priya Naidu,North,Haryana,Consumer,2024-09-28T00:00:00.000000
+CUST1007,Swati Mehta,West,Gujarat,Corporate,2023-06-10T00:00:00.000000
+CUST1008,Neha Gupta,South,Andhra Pradesh,Consumer,2024-08-04T00:00:00.000000
+CUST1009,Vikram Mehta,North,Haryana,Consumer,2024-01-19T00:00:00.000000
+CUST1010,Priya Sharma,East,West Bengal,Consumer,2023-01-01T00:00:00.000000
+CUST1011,Kabir Joshi,Central,Chhattisgarh,Corporate,2022-09-08T00:00:00.000000
+CUST1012,Sanjay Rao,West,Goa,Consumer,2024-03-26T00:00:00.000000
+CUST1013,Pooja Chowdhury,West,Goa,Consumer,2022-12-29T00:00:00.000000
+CUST1014,Vivaan Verma,West,Gujarat,Consumer,2022-09-28T00:00:00.000000
+CUST1015,Priya Rao,West,Goa,Consumer,2024-10-16T00:00:00.000000
+CUST1016,Rahul Rao,East,Bihar,Consumer,2023-06-13T00:00:00.000000
+CUST1017,Neha Joshi,North,Punjab,Corporate,2022-02-23T00:00:00.000000
+CUST1018,Kabir Mehta,Central,Madhya Pradesh,Consumer,2023-06-27T00:00:00.000000
+CUST1019,Kavya Rao,East,Odisha,Corporate,2023-05-21T00:00:00.000000
+CUST1020,Aman Nair,East,Bihar,Small Business,2024-08-04T00:00:00.000000
+CUST1021,Manoj Gupta,South,Kerala,Consumer,2024-02-19T00:00:00.000000
+CUST1022,Kavya Singh,North,Delhi,Consumer,2022-07-29T00:00:00.000000
+CUST1023,Divya Rao,Central,Uttar Pradesh,Corporate,2022-06-14T00:00:00.000000
+CUST1024,Priya Sharma,West,Goa,Consumer,2023-10-24T00:00:00.000000
+CUST1025,Rohan Pillai,West,Goa,Consumer,2022-02-21T00:00:00.000000
+CUST1026,Aarav Naidu,East,Odisha,Small Business,2022-12-16T00:00:00.000000
+CUST1027,Kavya Reddy,Central,Madhya Pradesh,Small Business,2022-06-01T00:00:00.000000
+CUST1028,Riya Singh,East,Odisha,Corporate,2022-01-23T00:00:00.000000
+CUST1029,Riya Verma,East,Jharkhand,Consumer,2024-10-04T00:00:00.000000
+CUST1030,Anjali Kumar,East,Jharkhand,Corporate,2022-04-09T00:00:00.000000
+CUST1031,Ishaan Nair,South,Karnataka,Corporate,2022-01-11T00:00:00.000000
+CUST1032,Meera Kumar,North,Delhi,Consumer,2024-10-19T00:00:00.000000
+CUST1033,Sara Das,East,West Bengal,Corporate,2022-07-26T00:00:00.000000
+CUST1034,Manoj Chowdhury,Central,Chhattisgarh,Consumer,2024-06-13T00:00:00.000000
+CUST1035,Riya Verma,North,Haryana,Consumer,2022-02-04T00:00:00.000000
+CUST1036,Vikram Naidu,Central,Madhya Pradesh,Consumer,2022-06-18T00:00:00.000000
+CUST1037,Swati Iyer,Central,Uttar Pradesh,Consumer,2022-05-02T00:00:00.000000
+CUST1038,Meera Sharma,South,Tamil Nadu,Consumer,2024-02-14T00:00:00.000000
+CUST1039,Kabir Singh,West,Maharashtra,Corporate,2023-11-11T00:00:00.000000
+CUST1040,Kavya Gupta,North,Delhi,Small Business,2023-06-06T00:00:00.000000
+CUST1041,Riya Pillai,West,Gujarat,Consumer,2022-09-22T00:00:00.000000
+CUST1042,Neha Chowdhury,West,Rajasthan,Corporate,2022-04-08T00:00:00.000000
+CUST1043,Manoj Gupta,South,Kerala,Small Business,2023-09-16T00:00:00.000000
+CUST1044,Diya Joshi,North,Punjab,Consumer,2022-09-10T00:00:00.000000
+CUST1045,Anjali Nair,Central,Madhya Pradesh,Consumer,2023-10-09T00:00:00.000000
+CUST1046,Vikram Singh,East,Jharkhand,Consumer,2024-01-24T00:00:00.000000
+CUST1047,Lakshmi Nair,Central,Chhattisgarh,Consumer,2024-07-19T00:00:00.000000
+CUST1048,Swati Naidu,West,Gujarat,Corporate,2023-06-26T00:00:00.000000
+CUST1049,Ananya Reddy,West,Gujarat,Consumer,2022-01-06T00:00:00.000000
+CUST1050,Arjun Sharma,West,Maharashtra,Consumer,2022-11-04T00:00:00.000000
+CUST1051,Priya Patel,North,Punjab,Consumer,2024-07-24T00:00:00.000000
+CUST1052,Swati Joshi,South,Tamil Nadu,Consumer,2023-08-08T00:00:00.000000
+CUST1053,Kabir Naidu,East,Jharkhand,Small Business,2023-11-10T00:00:00.000000
+CUST1054,Aditya Das,East,Bihar,Consumer,2023-05-17T00:00:00.000000
+CUST1055,Divya Naidu,North,Uttarakhand,Consumer,2022-06-28T00:00:00.000000
+CUST1056,Diya Naidu,East,Bihar,Consumer,2024-09-09T00:00:00.000000
+CUST1057,Ishaan Singh,North,Delhi,Consumer,2024-04-27T00:00:00.000000
+CUST1058,Pooja Gupta,West,Gujarat,Consumer,2024-12-26T00:00:00.000000
+CUST1059,Aarav Chowdhury,West,Goa,Consumer,2024-07-26T00:00:00.000000
+CUST1060,Rohan Kumar,Central,Madhya Pradesh,Consumer,2022-11-16T00:00:00.000000
+CUST1061,Sanjay Gupta,West,Goa,Consumer,2022-10-06T00:00:00.000000
+CUST1062,Suresh Verma,South,Karnataka,Corporate,2022-09-30T00:00:00.000000
+CUST1063,Nikhil Das,Central,Madhya Pradesh,Corporate,2024-10-03T00:00:00.000000
+CUST1064,Karan Nair,East,Jharkhand,Corporate,2023-09-03T00:00:00.000000
+CUST1065,Aarav Naidu,South,Kerala,Corporate,2023-05-14T00:00:00.000000
+CUST1066,Manoj Iyer,Central,Madhya Pradesh,Corporate,2024-11-27T00:00:00.000000
+CUST1067,Aarav Verma,South,Andhra Pradesh,Consumer,2023-10-24T00:00:00.000000
+CUST1068,Aditya Pillai,North,Haryana,Consumer,2024-09-23T00:00:00.000000
+CUST1069,Suresh Reddy,East,Jharkhand,Consumer,2024-12-15T00:00:00.000000
+CUST1070,Nikhil Reddy,West,Maharashtra,Consumer,2022-03-29T00:00:00.000000
+CUST1071,Karan Mehta,North,Haryana,Corporate,2023-02-01T00:00:00.000000
+CUST1072,Sara Pillai,East,West Bengal,Consumer,2024-03-15T00:00:00.000000
+CUST1073,Vivaan Iyer,North,Haryana,Corporate,2024-06-10T00:00:00.000000
+CUST1074,Priya Nair,West,Rajasthan,Small Business,2022-06-12T00:00:00.000000
+CUST1075,Swati Chowdhury,East,West Bengal,Consumer,2022-12-15T00:00:00.000000
+CUST1076,Riya Joshi,South,Karnataka,Small Business,2023-08-24T00:00:00.000000
+CUST1077,Pooja Singh,South,Kerala,Consumer,2024-05-25T00:00:00.000000
+CUST1078,Neha Reddy,East,Jharkhand,Small Business,2022-05-04T00:00:00.000000
+CUST1079,Manoj Sharma,West,Maharashtra,Consumer,2023-10-21T00:00:00.000000
+CUST1080,Ananya Iyer,Central,Madhya Pradesh,Consumer,2022-11-21T00:00:00.000000
+CUST1081,Priya Reddy,East,West Bengal,Consumer,2022-08-26T00:00:00.000000
+CUST1082,Aarav Kumar,North,Punjab,Consumer,2023-07-19T00:00:00.000000
+CUST1083,Swati Verma,Central,Madhya Pradesh,Consumer,2023-03-30T00:00:00.000000
+CUST1084,Priya Singh,West,Goa,Small Business,2023-11-28T00:00:00.000000
+CUST1085,Lakshmi Das,West,Goa,Corporate,2022-12-15T00:00:00.000000
+CUST1086,Nikhil Mehta,North,Uttarakhand,Consumer,2024-06-21T00:00:00.000000
+CUST1087,Sanjay Iyer,South,Andhra Pradesh,Consumer,2022-03-27T00:00:00.000000
+CUST1088,Divya Chowdhury,West,Maharashtra,Consumer,2024-08-02T00:00:00.000000
+CUST1089,Aarav Das,Central,Uttar Pradesh,Consumer,2022-02-02T00:00:00.000000
+CUST1090,Aditya Das,East,Odisha,Small Business,2024-03-17T00:00:00.000000
+CUST1091,Aman Reddy,Central,Chhattisgarh,Consumer,2023-01-15T00:00:00.000000
+CUST1092,Neha Verma,Central,Uttar Pradesh,Consumer,2023-02-25T00:00:00.000000
+CUST1093,Sneha Naidu,South,Andhra Pradesh,Consumer,2022-01-21T00:00:00.000000
+CUST1094,Aditya Patel,Central,Madhya Pradesh,Consumer,2024-02-09T00:00:00.000000
+CUST1095,Swati Nair,South,Andhra Pradesh,Consumer,2022-07-01T00:00:00.000000
+CUST1096,Ishaan Rao,South,Andhra Pradesh,Corporate,2023-12-24T00:00:00.000000
+CUST1097,Arjun Kumar,West,Maharashtra,Corporate,2024-03-05T00:00:00.000000
+CUST1098,Riya Joshi,West,Goa,Small Business,2024-07-15T00:00:00.000000
+CUST1099,Arjun Nair,North,Haryana,Corporate,2024-02-16T00:00:00.000000
+CUST1100,Manoj Naidu,Central,Uttar Pradesh,Consumer,2022-11-27T00:00:00.000000
+CUST1101,Pooja Sharma,North,Uttarakhand,Corporate,2024-03-20T00:00:00.000000
+CUST1102,Sneha Singh,Central,Uttar Pradesh,Small Business,2024-06-24T00:00:00.000000
+CUST1103,Kabir Kumar,North,Delhi,Corporate,2022-12-14T00:00:00.000000
+CUST1104,Divya Verma,West,Gujarat,Small Business,2022-05-17T00:00:00.000000
+CUST1105,Sara Reddy,West,Goa,Corporate,2024-09-02T00:00:00.000000
+CUST1106,Nikhil Patel,West,Maharashtra,Small Business,2022-06-12T00:00:00.000000
+CUST1107,Aarav Joshi,West,Maharashtra,Consumer,2023-10-13T00:00:00.000000
+CUST1108,Kabir Mehta,East,Bihar,Corporate,2022-09-16T00:00:00.000000
+CUST1109,Ananya Naidu,West,Goa,Consumer,2022-05-19T00:00:00.000000
+CUST1110,Nikhil Chowdhury,South,Kerala,Consumer,2024-04-30T00:00:00.000000
+CUST1111,Sanjay Rao,West,Goa,Corporate,2022-06-07T00:00:00.000000
+CUST1112,Anjali Chowdhury,East,West Bengal,Small Business,2024-01-05T00:00:00.000000
+CUST1113,Divya Sharma,East,Jharkhand,Small Business,2024-01-30T00:00:00.000000
+CUST1114,Anjali Verma,East,Jharkhand,Consumer,2022-03-08T00:00:00.000000
+CUST1115,Priya Pillai,East,Bihar,Corporate,2022-07-09T00:00:00.000000
+CUST1116,Meera Chowdhury,North,Uttarakhand,Corporate,2024-05-20T00:00:00.000000
+CUST1117,Neha Iyer,North,Uttarakhand,Consumer,2023-07-10T00:00:00.000000
+CUST1118,Rohan Singh,South,Tamil Nadu,Consumer,2022-05-14T00:00:00.000000
+CUST1119,Nikhil Mehta,North,Delhi,Consumer,2024-12-22T00:00:00.000000
+CUST1120,Lakshmi Pillai,East,Odisha,Corporate,2022-10-18T00:00:00.000000
+CUST1121,Nikhil Mehta,West,Maharashtra,Consumer,2022-01-05T00:00:00.000000
+CUST1122,Priya Patel,West,Maharashtra,Small Business,2024-10-09T00:00:00.000000
+CUST1123,Ishaan Gupta,East,West Bengal,Consumer,2022-01-19T00:00:00.000000
+CUST1124,Lakshmi Patel,Central,Uttar Pradesh,Small Business,2023-08-30T00:00:00.000000
+CUST1125,Ishaan Kumar,East,Bihar,Consumer,2024-12-24T00:00:00.000000
+CUST1126,Manoj Pillai,North,Haryana,Corporate,2023-09-26T00:00:00.000000
+CUST1127,Priya Rao,West,Rajasthan,Consumer,2023-10-03T00:00:00.000000
+CUST1128,Arjun Iyer,East,Bihar,Consumer,2023-03-02T00:00:00.000000
+CUST1129,Priya Iyer,West,Rajasthan,Corporate,2022-05-20T00:00:00.000000
+CUST1130,Swati Das,East,West Bengal,Small Business,2023-09-20T00:00:00.000000
+CUST1131,Divya Pillai,East,Jharkhand,Corporate,2024-09-10T00:00:00.000000
+CUST1132,Manoj Verma,North,Punjab,Consumer,2022-04-10T00:00:00.000000
+CUST1133,Suresh Verma,East,West Bengal,Consumer,2024-08-22T00:00:00.000000
+CUST1134,Pooja Mehta,West,Goa,Consumer,2023-03-31T00:00:00.000000
+CUST1135,Rohan Reddy,South,Karnataka,Consumer,2023-08-11T00:00:00.000000
+CUST1136,Ananya Pillai,West,Maharashtra,Corporate,2022-07-01T00:00:00.000000
+CUST1137,Riya Nair,North,Delhi,Corporate,2023-11-13T00:00:00.000000
+CUST1138,Lakshmi Reddy,South,Andhra Pradesh,Corporate,2022-07-19T00:00:00.000000
+CUST1139,Lakshmi Naidu,East,Odisha,Small Business,2022-10-27T00:00:00.000000
+CUST1140,Sneha Reddy,Central,Madhya Pradesh,Corporate,2024-03-01T00:00:00.000000
+CUST1141,Kabir Nair,South,Karnataka,Corporate,2022-02-25T00:00:00.000000
+CUST1142,Sneha Reddy,South,Tamil Nadu,Consumer,2023-05-06T00:00:00.000000
+CUST1143,Neha Verma,East,Jharkhand,Consumer,2023-10-14T00:00:00.000000
+CUST1144,Kavya Sharma,Central,Uttar Pradesh,Corporate,2022-05-25T00:00:00.000000
+CUST1145,Sara Sharma,Central,Chhattisgarh,Small Business,2022-11-20T00:00:00.000000
+CUST1146,Ananya Reddy,North,Haryana,Consumer,2023-01-12T00:00:00.000000
+CUST1147,Aman Sharma,South,Andhra Pradesh,Consumer,2023-12-29T00:00:00.000000
+CUST1148,Sanjay Mehta,Central,Madhya Pradesh,Corporate,2024-12-06T00:00:00.000000
+CUST1149,Arjun Kumar,North,Haryana,Consumer,2024-07-05T00:00:00.000000
+CUST1150,Aman Patel,Central,Madhya Pradesh,Consumer,2022-07-27T00:00:00.000000
+CUST1151,Aman Gupta,South,Andhra Pradesh,Small Business,2022-01-20T00:00:00.000000
+CUST1152,Swati Singh,Central,Madhya Pradesh,Corporate,2022-02-26T00:00:00.000000
+CUST1153,Nikhil Naidu,South,Kerala,Consumer,2023-10-15T00:00:00.000000
+CUST1154,Tanvi Pillai,East,Odisha,Small Business,2022-06-21T00:00:00.000000
+CUST1155,Kavya Sharma,West,Rajasthan,Consumer,2022-09-11T00:00:00.000000
+CUST1156,Pooja Reddy,North,Punjab,Small Business,2024-07-17T00:00:00.000000
+CUST1157,Suresh Iyer,East,West Bengal,Consumer,2024-08-15T00:00:00.000000
+CUST1158,Diya Iyer,East,Odisha,Consumer,2024-07-08T00:00:00.000000
+CUST1159,Anjali Mehta,West,Maharashtra,Consumer,2022-10-06T00:00:00.000000
+CUST1160,Manoj Patel,Central,Uttar Pradesh,Consumer,2023-11-11T00:00:00.000000
+CUST1161,Priya Sharma,West,Maharashtra,Small Business,2023-11-01T00:00:00.000000
+CUST1162,Aarav Gupta,East,Odisha,Consumer,2022-07-23T00:00:00.000000
+CUST1163,Lakshmi Singh,East,Jharkhand,Consumer,2023-08-30T00:00:00.000000
+CUST1164,Suresh Verma,East,Bihar,Consumer,2023-07-30T00:00:00.000000
+CUST1165,Aditya Pillai,Central,Chhattisgarh,Corporate,2023-03-11T00:00:00.000000
+CUST1166,Ishaan Sharma,South,Tamil Nadu,Corporate,2024-04-03T00:00:00.000000
+CUST1167,Sanjay Naidu,North,Uttarakhand,Small Business,2024-01-13T00:00:00.000000
+CUST1168,Rahul Verma,South,Telangana,Consumer,2023-08-07T00:00:00.000000
+CUST1169,Divya Pillai,North,Haryana,Consumer,2024-03-06T00:00:00.000000
+CUST1170,Aman Naidu,North,Uttarakhand,Consumer,2024-04-16T00:00:00.000000
+CUST1171,Meera Joshi,North,Haryana,Consumer,2023-09-14T00:00:00.000000
+CUST1172,Riya Chowdhury,West,Gujarat,Small Business,2022-10-21T00:00:00.000000
+CUST1173,Sneha Chowdhury,West,Maharashtra,Corporate,2024-04-11T00:00:00.000000
+CUST1174,Vikram Kumar,West,Maharashtra,Consumer,2024-02-26T00:00:00.000000
+CUST1175,Vikram Chowdhury,East,Jharkhand,Consumer,2024-12-13T00:00:00.000000
+CUST1176,Nikhil Reddy,West,Rajasthan,Small Business,2022-06-14T00:00:00.000000
+CUST1177,Aman Singh,North,Punjab,Consumer,2023-04-05T00:00:00.000000
+CUST1178,Riya Singh,Central,Chhattisgarh,Consumer,2024-10-09T00:00:00.000000
+CUST1179,Swati Pillai,East,Bihar,Consumer,2023-07-18T00:00:00.000000
+CUST1180,Divya Rao,Central,Chhattisgarh,Consumer,2024-10-30T00:00:00.000000
+CUST1181,Tanvi Patel,North,Haryana,Consumer,2022-01-14T00:00:00.000000
+CUST1182,Rahul Kumar,East,Odisha,Consumer,2022-02-08T00:00:00.000000
+CUST1183,Meera Nair,West,Rajasthan,Consumer,2024-05-22T00:00:00.000000
+CUST1184,Vivaan Reddy,East,Odisha,Corporate,2023-01-28T00:00:00.000000
+CUST1185,Neha Rao,East,Jharkhand,Consumer,2023-07-25T00:00:00.000000
+CUST1186,Kabir Patel,North,Delhi,Consumer,2023-04-15T00:00:00.000000
+CUST1187,Vikram Iyer,South,Andhra Pradesh,Small Business,2023-03-24T00:00:00.000000
+CUST1188,Rohan Gupta,South,Tamil Nadu,Corporate,2024-10-26T00:00:00.000000
+CUST1189,Arjun Gupta,South,Tamil Nadu,Consumer,2022-04-14T00:00:00.000000
+CUST1190,Nikhil Gupta,West,Rajasthan,Consumer,2024-04-26T00:00:00.000000
+CUST1191,Neha Patel,West,Gujarat,Small Business,2024-09-02T00:00:00.000000
+CUST1192,Ananya Kumar,West,Goa,Consumer,2023-12-22T00:00:00.000000
+CUST1193,Meera Nair,South,Tamil Nadu,Consumer,2023-03-09T00:00:00.000000
+CUST1194,Tanvi Joshi,Central,Madhya Pradesh,Small Business,2022-06-25T00:00:00.000000
+CUST1195,Rahul Naidu,North,Delhi,Consumer,2024-01-19T00:00:00.000000
+CUST1196,Divya Rao,South,Kerala,Corporate,2023-05-29T00:00:00.000000
+CUST1197,Tanvi Gupta,North,Delhi,Consumer,2022-06-13T00:00:00.000000
+CUST1198,Neha Singh,South,Kerala,Corporate,2023-01-30T00:00:00.000000
+CUST1199,Manoj Pillai,Central,Madhya Pradesh,Consumer,2024-11-19T00:00:00.000000
+CUST1200,Pooja Kumar,South,Andhra Pradesh,Consumer,2022-10-18T00:00:00.000000
+CUST1201,Diya Chowdhury,Central,Madhya Pradesh,Consumer,2022-07-15T00:00:00.000000
+CUST1202,Kavya Singh,East,Bihar,Consumer,2024-01-18T00:00:00.000000
+CUST1203,Nikhil Kumar,West,Gujarat,Small Business,2022-08-07T00:00:00.000000
+CUST1204,Aditya Nair,East,Jharkhand,Consumer,2024-10-05T00:00:00.000000
+CUST1205,Ananya Das,South,Karnataka,Consumer,2024-07-30T00:00:00.000000
+CUST1206,Vivaan Iyer,West,Gujarat,Corporate,2024-12-13T00:00:00.000000
+CUST1207,Sneha Das,Central,Chhattisgarh,Corporate,2024-09-27T00:00:00.000000
+CUST1208,Arjun Pillai,South,Kerala,Consumer,2022-09-25T00:00:00.000000
+CUST1209,Lakshmi Reddy,West,Gujarat,Consumer,2022-08-21T00:00:00.000000
+CUST1210,Manoj Mehta,South,Andhra Pradesh,Small Business,2023-01-11T00:00:00.000000
+CUST1211,Anjali Verma,West,Gujarat,Corporate,2023-05-30T00:00:00.000000
+CUST1212,Vikram Das,West,Goa,Corporate,2024-08-22T00:00:00.000000
+CUST1213,Sneha Verma,East,West Bengal,Small Business,2024-03-14T00:00:00.000000
+CUST1214,Arjun Naidu,West,Goa,Corporate,2023-12-08T00:00:00.000000
+CUST1215,Sara Reddy,South,Tamil Nadu,Consumer,2024-08-20T00:00:00.000000
+CUST1216,Manoj Joshi,North,Haryana,Consumer,2023-12-09T00:00:00.000000
+CUST1217,Ananya Chowdhury,North,Punjab,Consumer,2023-02-20T00:00:00.000000
+CUST1218,Sanjay Mehta,East,Jharkhand,Corporate,2023-03-29T00:00:00.000000
+CUST1219,Neha Chowdhury,Central,Madhya Pradesh,Small Business,2023-07-21T00:00:00.000000
+CUST1220,Swati Chowdhury,North,Punjab,Consumer,2022-04-08T00:00:00.000000
+CUST1221,Lakshmi Joshi,East,Odisha,Consumer,2024-03-23T00:00:00.000000
+CUST1222,Aditya Nair,West,Gujarat,Consumer,2023-12-17T00:00:00.000000
+CUST1223,Sara Mehta,South,Tamil Nadu,Small Business,2024-03-12T00:00:00.000000
+CUST1224,Vivaan Verma,West,Maharashtra,Consumer,2023-08-09T00:00:00.000000
+CUST1225,Arjun Mehta,South,Telangana,Consumer,2024-05-08T00:00:00.000000
+CUST1226,Ananya Reddy,Central,Madhya Pradesh,Consumer,2024-11-06T00:00:00.000000
+CUST1227,Ishaan Mehta,East,Bihar,Consumer,2023-09-17T00:00:00.000000
+CUST1228,Aarav Mehta,East,Odisha,Consumer,2023-05-03T00:00:00.000000
+CUST1229,Pooja Rao,North,Haryana,Consumer,2022-04-25T00:00:00.000000
+CUST1230,Rahul Singh,East,Bihar,Consumer,2024-05-03T00:00:00.000000
+CUST1231,Sara Chowdhury,Central,Uttar Pradesh,Consumer,2024-09-17T00:00:00.000000
+CUST1232,Lakshmi Chowdhury,North,Haryana,Consumer,2024-02-06T00:00:00.000000
+CUST1233,Arjun Rao,West,Rajasthan,Consumer,2024-08-06T00:00:00.000000
+CUST1234,Meera Mehta,East,Bihar,Consumer,2024-08-01T00:00:00.000000
+CUST1235,Kabir Naidu,West,Rajasthan,Corporate,2024-05-24T00:00:00.000000
+CUST1236,Divya Verma,West,Rajasthan,Consumer,2023-07-06T00:00:00.000000
+CUST1237,Tanvi Verma,East,Odisha,Consumer,2022-04-20T00:00:00.000000
+CUST1238,Sara Verma,South,Telangana,Consumer,2022-01-04T00:00:00.000000
+CUST1239,Pooja Kumar,West,Goa,Consumer,2022-08-13T00:00:00.000000
+CUST1240,Sara Patel,North,Punjab,Consumer,2023-04-18T00:00:00.000000
+CUST1241,Lakshmi Chowdhury,East,Bihar,Consumer,2024-03-25T00:00:00.000000
+CUST1242,Diya Kumar,North,Delhi,Small Business,2023-05-15T00:00:00.000000
+CUST1243,Sara Gupta,West,Gujarat,Consumer,2022-01-26T00:00:00.000000
+CUST1244,Nikhil Naidu,West,Rajasthan,Consumer,2022-08-19T00:00:00.000000
+CUST1245,Aman Chowdhury,North,Haryana,Consumer,2024-12-09T00:00:00.000000
+CUST1246,Anjali Nair,West,Rajasthan,Consumer,2024-12-18T00:00:00.000000
+CUST1247,Tanvi Gupta,East,Odisha,Consumer,2023-02-18T00:00:00.000000
+CUST1248,Arjun Gupta,West,Goa,Corporate,2024-06-01T00:00:00.000000
+CUST1249,Riya Reddy,North,Haryana,Corporate,2024-02-28T00:00:00.000000
